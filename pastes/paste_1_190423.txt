@@ -1,0 +1,6 @@
+WARNING gateway.platforms.qqbot.adapter: [QQBot:1903069381] WebSocket closed: code=4009 reason=Session timed out
+WARNING gateway.platforms.qqbot.adapter: [QQBot:1903069381] WebSocket error: WebSocket closed
+WARNING gateway.platforms.qqbot.adapter: [QQBot:1903069381] WebSocket closed: code=4009 reason=Session timed out
+WARNING gateway.platforms.qqbot.adapter: [QQBot:1903069381] WebSocket error: WebSocket closed
+WARNING gateway.platforms.qqbot.adapter: [QQBot:1903069381] WebSocket error: WebSocket closed
+WARNING gateway.platforms.qqbot.adapter: [QQBot:1903069381] WebSocket error: WebSocket closed

@@ -1,0 +1,6 @@
+Starting MCP Proxy on port 8099...
+Endpoints:
+  GET  /health  - health check
+  GET  /tools   - list available tools
+  POST /call     - call a tool (JSON: {server, tool, args})
+Server running at http://localhost:8099

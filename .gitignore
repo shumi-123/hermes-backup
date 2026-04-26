@@ -1,0 +1,32 @@
+# Binary state files
+state.db
+state.db-shm
+state.db-wal
+
+# Runtime artifacts
+gateway.lock
+gateway.pid
+gateway_state.json
+processes.json
+channel_directory.json
+*.lock
+
+# Large caches
+cache/
+image_cache/
+audio_cache/
+checkpoints/
+
+# Sandboxes & node
+sandboxes/
+node/
+
+# Logs
+logs/
+
+# Session data (too large, too volatile)
+sessions/
+
+# Auth credentials
+.env
+auth.json

@@ -1,0 +1,70 @@
+Windows-MCP 接入指南
+
+前置要求
+
+Python 3.13+
+
+UV 包管理器（pip install uv）
+
+接入方式（以 OpenClaw + mcporter 为例）
+
+
+
+安装 windows-mCP：
+
+
+
+      
+
+uvx windows-mcp
+
+
+      
+
+
+
+
+用 mcporter 添加配置：
+
+
+
+      
+
+mcporter config add windows-mcp --command uvx --transport stdio --arg windows-mcp
+
+
+      
+
+
+
+
+重启 mcporter 守护进程：
+
+
+
+      
+
+mcporter daemon restart
+
+
+      
+
+
+
+
+验证：
+
+
+
+      
+
+mcporter list
+
+
+      
+
+看到 windows-mcp (18 tools, healthy) 就表示成功了～
+
+
+
+注意：首次启动可能需要 1-2 分钟安装依赖，超时忽略，重启一次就好。

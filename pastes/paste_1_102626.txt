@@ -1,0 +1,6 @@
+Hi~ I don't recognize you yet!
+
+Here's your pairing code: M6C5WRTC
+
+Ask the bot owner to run:
+hermes pairing approve qqbot M6C5WRTC
