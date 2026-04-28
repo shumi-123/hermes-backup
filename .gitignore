@@ -30,3 +30,4 @@ sessions/
 # Auth credentials
 .env
 auth.json
+.hermes_history
