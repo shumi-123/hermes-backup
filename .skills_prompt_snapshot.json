@@ -89,6 +89,10 @@
       1777168471490392765,
       5571
     ],
+    "devops/github-ssh-wsl/SKILL.md": [
+      1777205158123075575,
+      1419
+    ],
     "devops/mcporter-windows-mcp/SKILL.md": [
       1777176907750385048,
       7545
@@ -141,6 +145,10 @@
       1777168471506392767,
       13776
     ],
+    "hermes-gateway-fault-tolerance/SKILL.md": [
+      1777287654122706182,
+      2283
+    ],
     "mcp/native-mcp/SKILL.md": [
       1777168471506392767,
       12542
@@ -164,6 +172,10 @@
     "media/youtube-content/SKILL.md": [
       1777168471510392768,
       3152
+    ],
+    "mlops/brain-inspired-ai-architecture/SKILL.md": [
+      1777339371077401029,
+      11076
     ],
     "mlops/evaluation/lm-evaluation-harness/SKILL.md": [
       1777168471510392768,
@@ -722,6 +734,19 @@
       }
     },
     {
+      "skill_name": "github-ssh-wsl",
+      "category": "devops",
+      "frontmatter_name": "github-ssh-wsl",
+      "description": "Configure GitHub SSH access from WSL for git push/pull, a...",
+      "platforms": [],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
+    {
       "skill_name": "mcporter-windows-mcp",
       "category": "devops",
       "frontmatter_name": "mcporter-windows-mcp",
@@ -891,6 +916,19 @@
       }
     },
     {
+      "skill_name": "hermes-gateway-fault-tolerance",
+      "category": "hermes-gateway-fault-tolerance",
+      "frontmatter_name": "hermes-gateway-fault-tolerance",
+      "description": "Configure Hermes Gateway to survive platform connection f...",
+      "platforms": [],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
+    {
       "skill_name": "native-mcp",
       "category": "mcp",
       "frontmatter_name": "native-mcp",
@@ -960,6 +998,19 @@
       "category": "media",
       "frontmatter_name": "youtube-content",
       "description": "Fetch YouTube video transcripts and transform them into s...",
+      "platforms": [],
+      "conditions": {
+        "fallback_for_toolsets": [],
+        "requires_toolsets": [],
+        "fallback_for_tools": [],
+        "requires_tools": []
+      }
+    },
+    {
+      "skill_name": "brain-inspired-ai-architecture",
+      "category": "mlops",
+      "frontmatter_name": "brain-inspired-ai-architecture",
+      "description": "Low-cost breakthrough plan for building cognitive memory ...",
       "platforms": [],
       "conditions": {
         "fallback_for_toolsets": [],
